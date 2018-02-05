@@ -1,0 +1,2 @@
+# polindrome.c
+polindrome
